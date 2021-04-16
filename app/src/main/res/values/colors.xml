@@ -15,8 +15,7 @@
     <color name="textcolor3">#A48FFB</color>
     <color name="textcolor4">#D9DBDC</color>
     <color name="whitereal">#7C2E2828</color>
-
-
     <color name="transparent_white">#83FFFFFF</color>
-
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightblue">#EFF2F4</color>
 </resources>
